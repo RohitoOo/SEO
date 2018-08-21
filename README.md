@@ -1,4 +1,4 @@
-# Search-Engine-Friendly Website Development Guide
+# Search-Engine-Friendly Pointers
 
 
 •	HTTPS encryption. 
